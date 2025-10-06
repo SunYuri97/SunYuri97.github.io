@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Epilepsia 2025</div><img src='images/paper-epilepsia-2025' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Epilepsia 2025</div><img src='images/paper-epilepsia-2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep learning-based classification and segmentation of interictal epileptiform discharges using multichannel electroencephalography](https://doi.org/10.1111/epi.18463)
