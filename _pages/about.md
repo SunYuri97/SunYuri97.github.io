@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep learning-based classification and segmentation of interictal epileptiform discharges using multichannel electroencephalography](https://doi.org/10.1111/epi.18463)
 
-**Yulin Sun**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yulin Sun**, Min Guan, Xun Chen, Fengling Feng, Runnan He, Lian Huang, Xiaoguang Tong, Huan Zhou, XiuyunLiu, Dong Ming
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:IjCSPb-OGe4C'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Multi-task transformer network for subject-independent iEEG seizure detection](https://doi.org/10.1016/j.eswa.2024.126282)
 
-**Yulin Sun**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yulin Sun**, LonglongCheng, Xiaopeng Si, Runnan He, Tania Pereira, Meijun Pang, Kuo Zhang, Xin Song, Dong Ming, Xiuyun Liu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:u-x6o8ySG0sC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Continuous seizure detection based on transformer and long-term iEEG](https://doi.org/10.1109/JBHI.2022.3199206)
 
-**Yulin Sun**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yulin Sun**, Weipeng Jin, Xiaopeng Si, Xingjian Zhang, Jiale Cao, Le Wang, Shaoya Yin, Dong Ming
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:UeHWp8X0CEIC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
