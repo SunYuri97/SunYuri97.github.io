@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Epilepsia 2025</div><img src='images/paper-epilepsia-2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Epilepsia 2025</div><img src='images/paper-epilepsia-2025.tiff' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep learning-based classification and segmentation of interictal epileptiform discharges using multichannel electroencephalography](https://doi.org/10.1111/epi.18463)
@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/paper-eswa-2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2025</div><img src='images/paper-eswa-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-task transformer network for subject-independent iEEG seizure detection](https://doi.org/10.1016/j.eswa.2024.126282)
