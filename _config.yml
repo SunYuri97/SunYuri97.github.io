@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yulin Sun (孙宇林)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tianjin University"
+  bio              : "Medical School, Tianjin University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "SunYuri97"
+  github           : 
+  kaggle           : "SunYuri97"
   google_plus      :
   keybase          :
   instagram        :
