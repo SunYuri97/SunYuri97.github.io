@@ -36,7 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Yulin Sun**, Min Guan, Xun Chen, Fengling Feng, Runnan He, Lian Huang, Xiaoguang Tong, Huan Zhou, XiuyunLiu, Dong Ming
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:IjCSPb-OGe4C'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- We proposed a novel deep learning framework, U-IEDNet, for detecting IEDs in multichannel EEG. The U-IEDNet framework employs convolutional layers and bidirectional gated recurrent units as a temporal encoder to extract temporal features from single-channel EEG, followed by the use of transformer networks as a spatial encoder to fuse multichannel features and extract interchannel interaction information. Transposed convolutional layers form a temporal decoder, creating a U-shaped architecture with the encoder. This upsamples features to estimate the probability of each EEG sampling point falling within the IED range, enabling segmentation of IEDs from background activity. Two datasets, a public database with 370 patient recordings and our own annotated database with 43 patient recordings, were used for model establishment and validation.
 </div>
 </div>
 
