@@ -18,11 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I'm a third-year PhD student from Tianjin University(https://www.tju.edu.cn), supervised by Prof. Xiuyun Liu(https://mstu.tju.edu.cn/info/1193/3009.htm). Before that, I received the master degree and bachelor degree from Tianjin University(https://www.tju.edu.cn).
-My research area is Medical Image Analysis.
-
-Serve as Reviewer for TMI, TPAMI, MedAI, JBHI, NeurIPS, ICLR, CVPR, ECCV, MICCAI. 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=8Emm2v0AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=8Emm2v0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+Serve as Reviewer for ESWA, IEEE J-BHI, JNE. 
 
 
 # 🔥 News
