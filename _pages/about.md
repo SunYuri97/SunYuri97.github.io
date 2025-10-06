@@ -82,15 +82,15 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kaggle 2024</div><img src='images/competition-hbac-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/ubiquant-market-prediction/leaderboard)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yulin Sun**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://www.kaggle.com/code/sunyuri/hms-vipeegnet)
+- Classify seizures and other patterns of harmful brain activity in critically ill patients. Ranked 42nd (top 1.5%) among 2767 teams from 113 countries, and won the silver medal in the competition.
 </div>
 </div>
 
