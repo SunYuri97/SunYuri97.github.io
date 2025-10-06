@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep learning-based classification and segmentation of interictal epileptiform discharges using multichannel electroencephalography](https://doi.org/10.1111/epi.18463)
 
-**Yulin Sun**, Min Guan, Xun Chen, Fengling Feng, Runnan He, Lian Huang, Xiaoguang Tong, Huan Zhou, XiuyunLiu, Dong Ming
+**Yulin Sun**, Min Guan, Xun Chen, Fengling Feng, Runnan He, Lian Huang, Xiaoguang Tong, Huan Zhou, Xiuyun Liu, Dong Ming
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:IjCSPb-OGe4C) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:IjCSPb-OGe4C'></span></strong>
 - This study was undertaken to develop a deep learning framework that can classify and segment interictal epileptiform discharges (IEDs) in multichannel electroencephalographic (EEG) recordings with high accuracy, preserving both spatial information and interchannel interactions.
@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Multi-task transformer network for subject-independent iEEG seizure detection](https://doi.org/10.1016/j.eswa.2024.126282)
 
-**Yulin Sun**, LonglongCheng, Xiaopeng Si, Runnan He, Tania Pereira, Meijun Pang, Kuo Zhang, Xin Song, Dong Ming, Xiuyun Liu
+**Yulin Sun**, Longlong Cheng, Xiaopeng Si, Runnan He, Tania Pereira, Meijun Pang, Kuo Zhang, Xin Song, Dong Ming, Xiuyun Liu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:u-x6o8ySG0sC'></span></strong>
 - Proposed a subject-independent intracranial EEG (iEEG) seizure detection model integrating channel-wise mixup and Transformer, enhanced generalization via multi-task learning, achieving AUCs of 0.97 and 0.95 on two public datasets, significantly outperforming existing methods
