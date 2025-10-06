@@ -79,8 +79,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Educations
-- *2023.09 - Now*, PhD Student, Medical School, Tianjin University, Tianjin. 
-- *2020.09 - 2023.06*, Master, Institute of Medical Engineering and Translational Medicine, Tianjin University, Tianjin. 
-- *2016.09 - 2020.06*, Undergraduate, School of Precision Instrument and Opto-electronics Engineering, Tianjin University, Tianjin.
+- *2023.09 - Present*, Ph.D. in Biomedical Engineering (Candidate)​​, Medical School, Tianjin University, Tianjin. 
+- *2020.09 - 2023.06*, M.Med. in Biomedical Engineering​​, Institute of Medical Engineering and Translational Medicine, Tianjin University, Tianjin. 
+- *2016.09 - 2020.06*, ​B.Eng. in Biomedical Engineering​​, School of Precision Instrument and Opto-electronics Engineering, Tianjin University, Tianjin.
 
 
