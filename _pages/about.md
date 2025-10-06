@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Yulin Sun**, LonglongCheng, Xiaopeng Si, Runnan He, Tania Pereira, Meijun Pang, Kuo Zhang, Xin Song, Dong Ming, Xiuyun Liu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Proposed a subject-independent intracranial EEG (iEEG) seizure detection model integrating channel-wise mixup and Transformer, enhanced generalization via multi-task learning, achieving AUCs of 0.97 and 0.95 on two public datasets, significantly outperforming existing methods
 </div>
 </div>
 
@@ -67,7 +67,7 @@ My research interest includes neural machine translation and computer vision. I 
 **Yulin Sun**, Weipeng Jin, Xiaopeng Si, Xingjian Zhang, Jiale Cao, Le Wang, Shaoya Yin, Dong Ming
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8Emm2v0AAAAJ&citation_for_view=8Emm2v0AAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='8Emm2v0AAAAJ:UeHWp8X0CEIC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Developed an end-to-end seizure detection model using Transformer and convolutional layers to analyze continuous intracranial EEG (iEEG), achieving 97.5% and 98.1% sensitivity on two datasets with low false detection rates, while enhancing explainability via channel-specific attention mechanisms
 </div>
 </div>
 
