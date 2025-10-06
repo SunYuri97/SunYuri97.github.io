@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year PhD student from Tianjin University(https://www.tju.edu.cn), supervised by Prof. Xiuyun Liu(https://mstu.tju.edu.cn/info/1193/3009.htm). Before that, I received the master degree and bachelor degree from Tianjin University(https://www.tju.edu.cn).
+I'm a third-year PhD student from [Tianjin University](https://www.tju.edu.cn), supervised by Prof. [Xiuyun Liu](https://mstu.tju.edu.cn/info/1193/3009.htm). Before that, I received the master degree and bachelor degree from [Tianjin University](https://www.tju.edu.cn).
 
 My research interest includes brain-computer interfaces, epilepsy, and deep learning.
 
