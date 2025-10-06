@@ -75,12 +75,6 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 
-# 💻 Patents and Software Copyrights
-- *2019.05 - 2020.02*, Hellow Word.
-
-
-
-
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
@@ -99,6 +93,11 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+
+
+# 💻 Patents and Software Copyrights
+- *2019.05 - 2020.02*, Hellow Word.
+
 
 
 # 💬 ​Oral Presentations
