@@ -95,6 +95,23 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 </div>
 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kaggle 2022</div><img src='images/competition-ump-2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ubiquant Market Prediction](https://www.kaggle.com/competitions/ubiquant-market-prediction/leaderboard)
+
+**Yulin Sun**
+
+- Make predictions against future market data. Ranked 23rd (top 1%) among 2893 teams from 101 countries, and won the silver medal in the competition.
+</div>
+</div>
+
+
+
+
+
 # 💻 Patents and Software Copyrights
 - *2019.05 - 2020.02*, Hellow Word.
 
