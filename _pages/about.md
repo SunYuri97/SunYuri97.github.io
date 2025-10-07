@@ -90,7 +90,21 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 **Yulin Sun**
 
 [**Code**](https://www.kaggle.com/code/sunyuri/hms-vipeegnet)
-- Classify seizures and other patterns of harmful brain activity in critically ill patients. Ranked 42nd (top 1.5%) among 2767 teams from 113 countries, and won the silver medal in the competition.
+- The goal of this competition is to detect and classify seizures and other types of harmful brain activity. Participants develop models trained on electroencephalography (EEG) signals recorded from critically ill hospital patients. This work may help significantly improve electroencephalography pattern classification accuracy, unlocking transformative benefits for neurocritical care, epilepsy, and drug development. Ranked 42nd (top 1.5%) among 2767 teams from 113 countries, and won the silver medal in the competition.
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kaggle 2023</div><img src='images/competition-pfgp-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Parkinson's Freezing of Gait Prediction](https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction/leaderboard)
+
+**Yulin Sun**
+
+- The goal of this competition is to detect freezing of gait (FOG), a debilitating symptom that afflicts many people with Parkinson's disease. Participants develop machine learning models trained on data collected from a wearable 3D lower-back sensor. By doing so, their work will help researchers gain a better understanding of when and why FOG episodes occur. Ranked 51st (top 4%) among 1361 teams from 83 countries, and won the silver medal in the competition.
 </div>
 </div>
 
@@ -104,7 +118,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 **Yulin Sun**
 
-- Make predictions against future market data. Ranked 23rd (top 1%) among 2893 teams from 101 countries, and won the silver medal in the competition.
+- In this competition, participants build models to forecast investment return rates. They train and test their algorithms on historical price data, aiming to solve this real-world data science problem with the highest possible accuracy. Ranked 23rd (top 1%) among 2893 teams from 101 countries, and won the silver medal in the competition.
 </div>
 </div>
 
