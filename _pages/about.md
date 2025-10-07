@@ -76,7 +76,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 # 🎖 Honors and Awards
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2025</div><img src='images/competition-ECOG-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2025</div><img src='images/competition-ecog-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [​Limb Motion Identification Technology Based on Electrocorticographic (ECoG) Signals​​ (基于皮层脑电信号的肢体运动辨识技术赛项)](https://www.worldrobotconference.com/contest/BCIBrainControlRobotCompetition/2025.html)
@@ -91,7 +91,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2025</div><img src='images/competition-ECOG-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2025</div><img src='images/competition-ecog-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [​Limb Motion Identification Technology Based on Electrocorticographic (ECoG) Signals​​ (基于皮层脑电信号的肢体运动辨识技术赛项)](https://www.worldrobotconference.com/contest/BCIBrainControlRobotCompetition/2025.html)
