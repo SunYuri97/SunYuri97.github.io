@@ -85,7 +85,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Kaggle 2024</div><img src='images/competition-hbac-2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/ubiquant-market-prediction/leaderboard)
+[HMS - Harmful Brain Activity Classification](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/leaderboard)
 
 **Yulin Sun**
 
