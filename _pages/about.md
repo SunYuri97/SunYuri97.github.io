@@ -155,12 +155,12 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 # 💻 Patents and Software Copyrights
-- *2019.05 - 2020.02*, Hellow Word.
+- *2019.05 - 2020.02*, Hello Word.
 
 
 
 # 💬 ​Oral Presentations
-- *2021.06*, Hellow Word. 
+- *2021.06*, Hello Word. 
 
 
 # 📖 Educations
