@@ -175,12 +175,13 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 # 💻 Patents and Software Copyrights
-- *2019.05 - 2020.02*, Hello Word.
+- *2025.03*, 刘秀云; 周环; **孙宇林**; 关敏; 明东; 冯凤玲; 何润南; 一种基于U-Net网络的单通道脑电癫痫棘波检测方法及装置, 2025-03-18, 中国, CN202410512749.8 (专利)
+- *2024.04*, 刘秀云; 周环; **孙宇林**; 关敏; 明东; 冯凤玲; 庞美俊; 王筱毅; 程龙龙; 癫痫脑电棘波分析系统, 2024SR0958353, 原始取得, 全部权利, 2024-04-15 (软件著作权)
 
 
 
 # 💬 ​Oral Presentations
-- *2021.06*, Hello Word. 
+- *2025.10*, Hello Word. 
 
 
 # 📖 Educations
