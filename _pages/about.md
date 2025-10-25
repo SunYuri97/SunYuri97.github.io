@@ -91,15 +91,15 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2025, National Runner-up (First Prize)</div><img src='images/competition-ecog-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2025, National Runner-up (First Prize)</div><img src='images/competition-metaverse-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[​Limb Motion Identification Technology Based on Electrocorticographic (ECoG) Signals​​ (基于皮层脑电信号的肢体运动辨识技术赛项)](https://www.worldrobotconference.com/contest/BCIBrainControlRobotCompetition/2025.html)
+[Metaverse-Oriented Off-Body Generation and Detection Technology for EEG Signals​​ (面向元宇宙的脑电信号离体生成和检测技术赛项)](https://www.worldrobotconference.com/contest/BCIBrainControlRobotCompetition/2025.html)
 
 **Yulin Sun**
 
 [**Project**](https://www.worldrobotconference.com/static/upload/file/20250524/1748020836133834.pdf)
-- In this competition task, the pig undergoes passive motion on a treadmill. A 32-channel semi-invasive EEG acquisition system is used to collect electrocorticographic (ECoG) signals from the pig's left motor cortex. Through soft timing synchronization, a motion capture system simultaneously records joint motion signals from 8 channels on the pig's right forelimb and hindlimb. Participants are required to decode the angles of these 8 joints based on the EEG signals.
+- Based on electroencephalogram (EEG) signals, individual identification technology has made significant progress and has become a cutting-edge research hotspot. This competition task involves designing a security system capable of discriminating the authenticity of resting-state EEG data and identifying the corresponding subject. Participants are required to generate simulated data online to perform real-time hacking attacks on the competition system, ensuring that the system recognizes them as the correct subject while not detecting the data as simulated.
 - National Runner-up (First Prize).
 </div>
 </div>
