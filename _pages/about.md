@@ -135,7 +135,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 [**Project**](https://www.worldrobotconference.com/uploads/admin/202206/62a1b238f209c.pdf)
 - Affective computing technologies, also known as emotional brain-computer interfaces, which enable machines to understand human emotions, are emerging as research hotspots in fields such as human-computer interaction, mental health, and artificial intelligence. This competition provides participants with a set of EEG data from 80 subjects whose emotional states are known. Participants are required to develop an EEG computational model capable of cross-individual emotion recognition. This model must perform real-time emotion recognition on EEG data from another set of subjects, and the competition results will be determined based on the accuracy of this emotion recognition
-- National Champion (Grand Prize), 2022​​.
+- National Champion (First Prize), 2022​​.
 </div>
 </div>
 
