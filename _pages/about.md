@@ -98,7 +98,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 **Yulin Sun**
 
-[**Project**](https://www.worldrobotconference.com/static/upload/file/20250524/1748020836133834.pdf)
+[**Project**](https://www.worldrobotconference.com/static/upload/file/20250418/1744948398198531.pdf)
 - Based on electroencephalogram (EEG) signals, individual identification technology has made significant progress and has become a cutting-edge research hotspot. This competition task involves designing a security system capable of discriminating the authenticity of resting-state EEG data and identifying the corresponding subject. Participants are required to generate simulated data online to perform real-time hacking attacks on the competition system, ensuring that the system recognizes them as the correct subject while not detecting the data as simulated.
 - National Runner-up (First Prize).
 </div>
@@ -119,6 +119,24 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 - Ranked 42nd (top 1.5%) among 2767 teams from 113 countries. silver medalist.
 </div>
 </div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WRC-BCI 2022, National Champion (Grand Prize)</div><img src='images/competition-affective-2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Emotional Brain Computer Interface​​ (情绪脑机接口)](https://www.worldrobotconference.com/contest/BCIBrainControlRobotCompetition/2022.html)
+
+**Yulin Sun**
+
+[**Project**](https://www.worldrobotconference.com/uploads/admin/202206/62a1b238f209c.pdf)
+- Affective computing technologies, also known as emotional brain-computer interfaces, which enable machines to understand human emotions, are emerging as research hotspots in fields such as human-computer interaction, mental health, and artificial intelligence. This competition provides participants with a set of EEG data from 80 subjects whose emotional states are known. Participants are required to develop an EEG computational model capable of cross-individual emotion recognition. This model must perform real-time emotion recognition on EEG data from another set of subjects, and the competition results will be determined based on the accuracy of this emotion recognition
+- National Champion (Grand Prize)​​.
+</div>
+</div>
+
 
 
 
