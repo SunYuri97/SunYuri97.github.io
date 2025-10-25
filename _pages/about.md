@@ -85,7 +85,8 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 [**Project**](https://www.worldrobotconference.com/static/upload/file/20250524/1748020836133834.pdf)
 - In this competition task, the pig undergoes passive motion on a treadmill. A 32-channel semi-invasive EEG acquisition system is used to collect electrocorticographic (ECoG) signals from the pig's left motor cortex. Through soft timing synchronization, a motion capture system simultaneously records joint motion signals from 8 channels on the pig's right forelimb and hindlimb. Participants are required to decode the angles of these 8 joints based on the EEG signals.
-- National Champion (Grand Prize)​​.
+- National Champion (Grand Prize)​​, 2025.
+- National Runner-up (First Prize), 2024.
 </div>
 </div>
 
@@ -100,7 +101,8 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 [**Project**](https://www.worldrobotconference.com/static/upload/file/20250418/1744948398198531.pdf)
 - Based on electroencephalogram (EEG) signals, individual identification technology has made significant progress and has become a cutting-edge research hotspot. This competition task involves designing a security system capable of discriminating the authenticity of resting-state EEG data and identifying the corresponding subject. Participants are required to generate simulated data online to perform real-time hacking attacks on the competition system, ensuring that the system recognizes them as the correct subject while not detecting the data as simulated.
-- National Runner-up (First Prize).
+- National Runner-up (First Prize), 2025.
+- National Runner-up (First Prize), 2024.
 </div>
 </div>
 
@@ -133,7 +135,7 @@ Serve as Reviewer for ESWA, IEEE J-BHI, JNE.
 
 [**Project**](https://www.worldrobotconference.com/uploads/admin/202206/62a1b238f209c.pdf)
 - Affective computing technologies, also known as emotional brain-computer interfaces, which enable machines to understand human emotions, are emerging as research hotspots in fields such as human-computer interaction, mental health, and artificial intelligence. This competition provides participants with a set of EEG data from 80 subjects whose emotional states are known. Participants are required to develop an EEG computational model capable of cross-individual emotion recognition. This model must perform real-time emotion recognition on EEG data from another set of subjects, and the competition results will be determined based on the accuracy of this emotion recognition
-- National Champion (Grand Prize)​​.
+- National Champion (Grand Prize), 2022​​.
 </div>
 </div>
 
